@@ -1,8 +1,8 @@
 <?php
 define("DB_HOST", "localhost"); //Databse Host.
-define("DB_USER", "of2ds84i_robert"); //Databse User.
-define("DB_PASS", "Pm7xojnz"); //database password.
-define("DB_NAME", "of2ds84i_wp587"); //database Name.
+define("DB_USER", "xxxx"); //Databse User.
+define("DB_PASS", "xxxx"); //database password.
+define("DB_NAME", "xxxx"); //database Name.
 /*define("DB_USER", "root"); //Databse User.
 define("DB_PASS", "root"); //database password.
 define("DB_NAME", "eko_tasks"); //database Name.*/
